@@ -111,7 +111,7 @@ const Contact = () => {
             id="name"
             name="name"
             value={formData.name}
-            placeholder="Brian Mutuku"
+            placeholder="Your Name"
             onChange={handleChange}
             className={`bg-transparent border rounded p-2 text-white focus:outline-none ${
               errors.name ? "border-red-500" : "border-gray-600 focus:border-[#e94560]"
@@ -130,7 +130,7 @@ const Contact = () => {
             id="email"
             name="email"
             value={formData.email}
-            placeholder="mutuku.brian.fr@gmail.com"
+            placeholder="Your Email"
             onChange={handleChange}
             className={`bg-transparent border rounded p-2 text-white focus:outline-none ${
               errors.email ? "border-red-500" : "border-gray-600 focus:border-[#e94560]"

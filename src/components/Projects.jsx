@@ -9,9 +9,9 @@ const projects = [
   {
     title: "Brian Mutuku | Portfolio Website",
     description:
-      "This is my portfolio website. I built it to showcase my projects and skills. It is a static site built with React, Tailwind CSS, Three.js and GSAP. I used the following technologies to build it:",
-    liveLink: "",
-    githubLink: "",
+      "This is my portfolio website. I built it to showcase my projects and skills. It is a static site built with React, Tailwind CSS, and GSAP. I used the following technologies to build it:",
+    liveLink: "https://brianmutuku.dev/",
+    githubLink: "https://github.com/Patbrian/Portfolio",
     techStack: [
       { name: "React", icon: SiReact },
       { name: "Tailwind CSS", icon: SiTailwindcss },
