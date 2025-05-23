@@ -28,7 +28,7 @@ const Footer = () => {
           </motion.a>
         ))}
       </div>
-      <p>Made with ❤️ by Brian Mutuku - Software Developer. All rights reserved.</p>
+      <p>Brian Mutuku - Software Developer. All rights reserved.</p>
     </footer>
   );
 };
